@@ -1,0 +1,12 @@
+addi x1, x2, 10
+addi x3, x4, -5
+addi x4, x2, 7
+srl x5, x6, x7
+sw x1, 0(x9)
+lw x8, 0(x9)
+sw x3, 0(x11)
+lw x7, 0(x11)
+xor x12, x13, x14
+sw x15, 8(x16)
+beq x19, x20, 8
+sub x21, x22, x23

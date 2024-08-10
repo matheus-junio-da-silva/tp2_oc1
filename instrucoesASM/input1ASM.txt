@@ -1,0 +1,13 @@
+addi x1, x2, 42
+sub x3, x4, x5
+xor x6, x7, x8
+sw x6, 0(x10)
+lw x9, 0(x10)
+sw x11, 4(x12)
+addi x4, x2, 7
+addi x13, x14, -10
+sub x15, x16, x17
+xor x18, x19, x20
+sw x1, 0(x22)
+lw x21, 0(x22)
+sub x3, x1, x4
